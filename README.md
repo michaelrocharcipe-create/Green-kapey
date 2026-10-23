@@ -1,2 +1,2 @@
-# Green-kapey
+# Kappeey-kapey
 IT101 project
